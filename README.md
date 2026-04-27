@@ -26,11 +26,11 @@ Acesse [http://localhost:3000](http://localhost:3000) no navegador.
 
 ## Scripts disponíveis
 
-| Comando | Descrição |
-|---|---|
-| `npm start` | Inicia em modo de desenvolvimento |
+| Comando         | Descrição                                  |
+| --------------- | ------------------------------------------ |
+| `npm start`     | Inicia em modo de desenvolvimento          |
 | `npm run build` | Gera o build de produção na pasta `build/` |
-| `npm test` | Executa os testes |
+| `npm test`      | Executa os testes                          |
 
 ## Deploy
 
